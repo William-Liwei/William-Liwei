@@ -11,6 +11,10 @@ You can contact me by email: [![email](https://img.shields.io/badge/Email-D14836
   <img src="https://nirzak-streak-stats.vercel.app/?user=William-Liwei&theme=dark&hide_border=false" alt="William-Liwei's custom image"/>
   <img src="https://github-contributor-stats.vercel.app/api?username=William-Liwei&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="William-Liwei's custom image"/>
 </p>
+<p align="center">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/william-liwei">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/william-liwei">
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
