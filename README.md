@@ -12,7 +12,7 @@ You can contact me by email: [![email](https://img.shields.io/badge/Email-D14836
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=William-Liwei&theme=dark&hide_border=false&count_private=true&border_radius=10" alt="William-Liwei's custom image"/>
   <img src="https://nirzak-streak-stats.vercel.app?user=william-liwei&theme=dark&hide_border=true&border_radius=10&mode=weekly&card_width=320&hide_current_streak=true" alt="William-Liwei's custom image"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=William-Liwei&limit=2&theme=tokyonight&combine_all_yearly_contributions=true&border_radius=10" alt="William-Liwei's custom image"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=William-Liwei&limit=4&theme=tokyonight&combine_all_yearly_contributions=true&border_radius=10" alt="William-Liwei's custom image"/>
 </p>
 <p align="center">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/william-liwei">
