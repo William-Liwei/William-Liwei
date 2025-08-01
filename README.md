@@ -22,4 +22,6 @@ You can contact me by email: [![email](https://img.shields.io/badge/Email-D14836
 # Top Repos:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=william-liwei&repo=energypatchtst)](https://github.com/William-Liwei/EnergyPatchTST)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=william-liwei&repo=swift)](https://github.com/William-Liwei/SWIFT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=william-liwei&repo=ccfonline)](https://github.com/William-Liwei/CCFOnline)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
