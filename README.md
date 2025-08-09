@@ -5,7 +5,7 @@
 <!-- color: timeGradient, random, Starlit, Canay, Bule, Red, Pink -->
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=William%20Liwei&fontSize=90&fontAlign=50&fontAlignY=38&desc=Deep%20Learning%20%7C%20AI%20%7C%20Time%20Series%20%7C%20HCI%20&descAlign=50&descSize=25&descAlignY=55&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Wei%20Li%20%28William%29%20&fontSize=70&fontAlign=50&fontAlignY=38&desc=Deep%20Learning%20%7C%20AI%20%7C%20Time%20Series%20%7C%20HCI%20&descAlign=50&descSize=25&descAlignY=55&animation=twinkling" />
 </p>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
