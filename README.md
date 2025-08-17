@@ -26,7 +26,7 @@
   - 🧠 My research focuses on <b>Deep Learning</b>, <b>AI</b>, <b>Time Series</b> and <b>HCI</b> ... <br>
   - 🌱 I'm currently exploring new frontiers in AI and contributing to open-source projects. <br>
   - 📫 Let's connect! You can reach me via <a href="mailto:liwei008009@163.com"><b>Email</b></a>. <br>
-  - ✉️ My academic website: <a href="https://weili.space/Projects"><b>https://weili.space/about</b></a>.
+  - ✉️ My academic website: <a href="https://weili.space/about"><b>https://weili.space/about</b></a>.
 </p>
 <p align="center">
   <img src="https://github.com/William-Liwei/William-Liwei/blob/main/codecat.gif" width="20%">
