@@ -100,13 +100,5 @@
   </a>
 </p>
 
-<!-- ---------------------------------------------------------------------------------------------------------------------- -->
-<!-- GITHUB TROPHIES -->
-<!-- 访问 https://github.com/ryo-ma/github-profile-trophy -->
-<!-- ---------------------------------------------------------------------------------------------------------------------- -->
-<h2 align="left">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=William-Liwei&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
 
 
