@@ -98,6 +98,9 @@
     <a href="https://github.com/William-Liwei/CCFOnline" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=william-liwei&repo=ccfonline&theme=tokyonight&hide_border=true" alt="CCFOnline Repo"/>
   </a>
+    <a href="https://github.com/William-Liwei/shuprophet" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=william-liwei&repo=shuprophet&theme=tokyonight&hide_border=true" alt="shuprophet Repo"/>
+  </a>
 </p>
 
 
