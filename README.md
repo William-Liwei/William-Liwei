@@ -19,14 +19,14 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <!-- ABOUT ME -->
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
-<h2 align="left">🚀 About Me</h2>
+<h2 align="left">About Me</h2>
 
 <p align="center">
-  - 🎓 I'm an undergraduate at <b>Shanghai University</b>, majoring in Computer Science and Technology. <br>
-  - 🧠 My research focuses on <b>Deep Learning</b>, <b>AI</b>, <b>Time Series</b> and <b>HCI</b> ... <br>
-  - 🌱 I'm currently exploring new frontiers in AI and contributing to open-source projects. <br>
-  - 📫 Let's connect! You can reach me via <a href="mailto:liwei008009@163.com"><b>Email</b></a>. <br>
-  - ✉️ My academic website: <a href="https://weili.space/about"><b>https://weili.space/about</b></a>.
+  - I'm an undergraduate at <b>Shanghai University</b>, majoring in Computer Science and Technology. <br>
+  - My research focuses on <b>Deep Learning</b>, <b>AI</b>, <b>Time Series</b> and <b>HCI</b> ... <br>
+  - I'm currently exploring new frontiers in AI and contributing to open-source projects. <br>
+  - Let's connect! You can reach me via <a href="mailto:liwei008009@163.com"><b>Email</b></a>. <br>
+  - My academic website: <a href="https://weili.space/about"><b>https://weili.space/about</b></a>.
 </p>
 <p align="center">
   <img src="https://github.com/William-Liwei/William-Liwei/blob/main/codecat.gif" width="20%">
@@ -36,7 +36,7 @@
 <!-- TECH STACK -->
 <!-- 访问 https://skillicons.dev/ 或 https://img.shields.io/ 来获取更多图标 -->
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 <p align="center">
   <b>Languages:</b> <br>
   <a href="#"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white"></a>
@@ -70,38 +70,8 @@
 </p>
 
 
-<!-- ---------------------------------------------------------------------------------------------------------------------- -->
-<!-- GITHUB STATS -->
-<!-- 访问 https://github.com/anuraghazra/github-readme-stats 和 https://github.com/ashutosh00710/github-readme-activity-graph-->
-<!-- ---------------------------------------------------------------------------------------------------------------------- -->
-<h2 align="left">📊 GitHub Stats</h2>
+
+<h2 align="left">GitHub Activity</h2>
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=William-Liwei&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" alt="William-Liwei's GitHub Stats"/>
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Liwei&layout=compact&theme=tokyonight&hide_border=true" alt="William-Liwei's Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=William-Liwei&theme=tokyonight&hide_border=true" />
 </p>
-
-<!-- ---------------------------------------------------------------------------------------------------------------------- -->
-<!-- TOP REPOSITORIES -->
-<!-- ---------------------------------------------------------------------------------------------------------------------- -->
-<h2 align="left">🏆 Top Repositories</h2>
-<p align="center">
-  <!-- 您可以手动替换为您最想展示的仓库 -->
-  <a href="https://github.com/William-Liwei/EnergyPatchTST" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=william-liwei&repo=energypatchtst&theme=tokyonight&hide_border=true" alt="EnergyPatchTST Repo"/>
-  </a>
-  <a href="https://github.com/William-Liwei/SWIFT" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=william-liwei&repo=swift&theme=tokyonight&hide_border=true" alt="SWIFT Repo"/>
-  </a>
-    <a href="https://github.com/William-Liwei/CCFOnline" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=william-liwei&repo=ccfonline&theme=tokyonight&hide_border=true" alt="CCFOnline Repo"/>
-  </a>
-    <a href="https://github.com/William-Liwei/shuprophet" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=william-liwei&repo=shuprophet&theme=tokyonight&hide_border=true" alt="shuprophet Repo"/>
-  </a>
-</p>
-
-
-
