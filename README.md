@@ -5,7 +5,7 @@
 <!-- color: timeGradient, random, Starlit, Canay, Bule, Red, Pink -->
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Wei%20Li%20%28William%29%20&fontSize=70&fontAlign=50&fontAlignY=38&desc=Deep%20Learning%20%7C%20AI%20%7C%20Time%20Series%20%7C%20HCI%20&descAlign=50&descSize=25&descAlignY=55&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Wei%20Li%20%28William%29%20&fontSize=70&fontAlign=50&fontAlignY=38&desc=Deep%20Learning%20%7C%20AI%20%7C%20Time%20Series%20%7C%20Agent%20&descAlign=50&descSize=25&descAlignY=55&animation=twinkling" />
 </p>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
@@ -13,7 +13,7 @@
 <!-- 您可以访问 https://readme-typing-svg.demolab.com/ 来定制动态打字效果 -->
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=21&pause=1000&color=1976D2&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+digital+garden+...;Passionate+about+AI+and+Data+Science;Always+learning%2C+always+innovating." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=21&pause=1000&color=1976D2&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+homepage+...;Passionate+about+AI+and+Data+Science;Always+learning%2C+always+innovating." alt="Typing SVG" /></a>
 </p>
 
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
