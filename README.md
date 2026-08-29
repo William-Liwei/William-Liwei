@@ -23,7 +23,7 @@
 
 <p align="center">
   - I'm an undergraduate at <b>Shanghai University</b>, majoring in Computer Science and Technology. <br>
-  - My research focuses on <b>Deep Learning</b>, <b>AI</b>, <b>Time Series</b> and <b>HCI</b> ... <br>
+  - My research focuses on <b>Deep Learning</b>, <b>AI</b>, <b>Time Series</b> and <b>Agent</b> ... <br>
   - I'm currently exploring new frontiers in AI and contributing to open-source projects. <br>
   - Let's connect! You can reach me via <a href="mailto:liwei008009@163.com"><b>Email</b></a>. <br>
   - My academic website: <a href="https://weili.space/about"><b>https://weili.space/about</b></a>.
@@ -71,7 +71,7 @@
 
 
 
-<h2 align="left">GitHub Activity</h2>
+<!-- <h2 align="left">GitHub Activity</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=William-Liwei&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
