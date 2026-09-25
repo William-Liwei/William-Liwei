@@ -22,7 +22,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="center">
-  - I'm an undergraduate at <b>Shanghai University</b>, majoring in Computer Science and Technology. <br>
+  - I'm a PhD Student in Computer Science — <b>Shanghai Jiao Tong University × Beijing Zhongguancun Academy</b>. <br>
   - My research focuses on <b>Deep Learning</b>, <b>AI</b>, <b>Time Series</b> and <b>Agent</b> ... <br>
   - I'm currently exploring new frontiers in AI and contributing to open-source projects. <br>
   - Let's connect! You can reach me via <a href="mailto:liwei008009@163.com"><b>Email</b></a>. <br>
